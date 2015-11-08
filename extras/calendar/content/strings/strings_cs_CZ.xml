@@ -1,0 +1,10 @@
+<strings>
+    <string name="MON" value="PON"/>
+    <string name="TUE" value="ÚTE"/>
+    <string name="WED" value="STŘ"/>
+    <string name="THU" value="ČTV"/>
+    <string name="FRI" value="PÁT"/>
+    <string name="SAT" value="SOB"/>
+    <string name="SUN" value="NED"/>
+    <string name="language" value="cs"/>
+</strings>

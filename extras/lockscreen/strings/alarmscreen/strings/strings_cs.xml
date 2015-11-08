@@ -1,0 +1,4 @@
+<resources>
+    <string name="slider_text">posunutím nahoru zavřít</string>
+    <string name="snooze_message">Spánek za %d min</string>
+</resources>
